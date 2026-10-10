@@ -1,0 +1,29 @@
+name: Materialize dot art
+
+on:
+  push:
+    paths:
+      - 'assets/.dot-ready'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build PNG asset
+        shell: bash
+        run: |
+          if [ ! -f assets/.dot-ready ]; then
+            echo 'marker removed; nothing to do'
+            exit 0
+          fi
+          cat assets/.dot/part-* | base64 --decode > assets/sekai-dot.png
+          rm -rf assets/.dot assets/.dot-ready
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A assets
+          git commit -m 'Add transparent white dot-art asset'
+          git push
