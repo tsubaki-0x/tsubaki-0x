@@ -1,65 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="SUZU profile header">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="SUZU profile header">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#05070a"/>
-      <stop offset="0.55" stop-color="#080b12"/>
-      <stop offset="1" stop-color="#070913"/>
+      <stop offset="0" stop-color="#090d12"/><stop offset="0.62" stop-color="#0b1017"/><stop offset="1" stop-color="#0b1420"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#8ca0ff"/>
-      <stop offset="1" stop-color="#b5a2ff"/>
+    <linearGradient id="band" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b3f6b"/><stop offset="0.62" stop-color="#0e507e"/><stop offset="1" stop-color="#123653"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#bfe8f3" stop-opacity="0.95"/><stop offset="0.62" stop-color="#75bfd8" stop-opacity="0.7"/><stop offset="1" stop-color="#75bfd8" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#9eb0ff" stop-opacity="0.52"/>
-      <stop offset="0.5" stop-color="#7187ef" stop-opacity="0.13"/>
-      <stop offset="1" stop-color="#7187ef" stop-opacity="0"/>
+      <stop offset="0" stop-color="#8dd7ea" stop-opacity="0.25"/><stop offset="1" stop-color="#8dd7ea" stop-opacity="0"/>
     </radialGradient>
-    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="8"/>
-    </filter>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
   </defs>
-
-  <rect x="1" y="1" width="1198" height="278" rx="18" fill="url(#bg)" stroke="#1d2635"/>
-  <path d="M28 56H1172" stroke="#151d2a"/>
-  <path d="M28 236H1172" stroke="#151d2a"/>
-
-  <circle cx="31" cy="28" r="4" fill="#8ca0ff">
-    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.6s" repeatCount="indefinite"/>
-  </circle>
-  <text x="46" y="34" fill="#7f899c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.5">tsubaki-0x / README.md</text>
-  <text x="1158" y="34" text-anchor="end" fill="#596276" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">PT-BR // LOCALIZATION NODE</text>
-
-  <text x="66" y="125" fill="#eef2fb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="18">SUZU</text>
-  <rect x="67" y="145" width="210" height="3" rx="1.5" fill="url(#accent)" opacity="0.85"/>
-
-  <text x="67" y="180" fill="#9aa5b9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="1.6">VIBECODER · AI-ASSISTED DEVELOPMENT · LOCALIZATION</text>
-  <text x="67" y="208" fill="#697488" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">make previously inaccessible content reachable.</text>
-  <rect x="435" y="197" width="8" height="14" rx="1" fill="#94a6ff">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.5;1" dur="1.1s" repeatCount="indefinite"/>
-  </rect>
-
-  <g transform="translate(955 146)">
-    <circle r="88" fill="url(#glow)" filter="url(#soft)"/>
-    <circle r="58" fill="none" stroke="#1d2940" stroke-width="1"/>
-    <circle r="37" fill="none" stroke="#293858" stroke-width="1" stroke-dasharray="3 7" opacity="0.8">
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
-    </circle>
-    <circle r="10" fill="#0d1425" stroke="#8096ff" stroke-width="1.5"/>
-    <circle r="4" fill="#dbe4ff">
-      <animate attributeName="r" values="3;5;3" dur="2.8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.8s" repeatCount="indefinite"/>
-    </circle>
-
-    <g>
-      <circle cx="0" cy="-58" r="3.5" fill="#8ca0ff"/>
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/>
-    </g>
-
-    <text x="82" y="-38" fill="#6f7b90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">AI / AGENT</text>
-    <text x="82" y="-18" fill="#6f7b90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">HUMAN / VALIDATE</text>
-    <text x="82" y="2" fill="#8ea2ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">PT-BR / SHIP</text>
+  <rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#bg)" stroke="#1b2530"/>
+  <rect x="34" y="40" width="470" height="132" rx="2" fill="url(#band)"/>
+  <rect x="58" y="67" width="420" height="1.5" fill="#d6f4fb" opacity="0.72"/>
+  <text x="58" y="129" fill="#f7fbff" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="5">SUZU</text>
+  <text x="59" y="154" fill="#d9f3f8" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Monaco,Consolas,monospace" font-size="12.5" letter-spacing="1.5">VIBECODER / AI-ASSISTED / LOCALIZATION</text>
+  <text x="58" y="214" fill="#c8d0da" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Monaco,Consolas,monospace" font-size="15">make previously inaccessible content reachable.</text>
+  <text x="58" y="245" fill="#6f7e8d" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Monaco,Consolas,monospace" font-size="12.5">AI-assisted · Human-directed · PT-BR</text>
+  <rect x="58" y="268" width="620" height="1" fill="url(#line)"/>
+  <g transform="translate(1005 146)">
+    <circle r="106" fill="url(#glow)" filter="url(#blur)"/><circle r="66" fill="none" stroke="#1b4964" stroke-width="1"/>
+    <circle r="45" fill="none" stroke="#2d6c8a" stroke-width="1" stroke-dasharray="2 8" opacity="0.8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></circle>
+    <circle r="12" fill="#0d1b27" stroke="#9bd9e9" stroke-width="1.3"/>
+    <circle r="4.3" fill="#d9f7ff"><animate attributeName="opacity" values="0.45;1;0.45" dur="2.4s" repeatCount="indefinite"/><animate attributeName="r" values="3.6;5.1;3.6" dur="2.4s" repeatCount="indefinite"/></circle>
+    <g><circle cx="0" cy="-66" r="3.8" fill="#ef756e"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/></g>
+    <g><circle cx="0" cy="66" r="3.8" fill="#8cd8ea"/><animateTransform attributeName="transform" type="rotate" from="180" to="540" dur="13s" repeatCount="indefinite"/></g>
   </g>
-
-  <text x="67" y="259" fill="#5f6a7f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">AI-assisted · Human-directed</text>
-  <text x="1135" y="259" text-anchor="end" fill="#444e61" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">signal: active</text>
+  <text x="1128" y="258" text-anchor="end" fill="#566674" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Monaco,Consolas,monospace" font-size="11">SCHOOL DAYS // SIGNAL</text>
 </svg>
