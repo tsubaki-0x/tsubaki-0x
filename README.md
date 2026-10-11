@@ -1,41 +1,53 @@
-<img src="./assets/sekai-dot.png" width="330" align="left" alt="Dot-art character" />
+<div align="center">
+
+<table>
+<tr>
+<td valign="middle">
+
+<img src="White_Halftone_Anime_Girl_with_Bow.png" alt="Suzu" width="280">
+
+</td>
+<td valign="middle">
 
 <pre>
-•••••••••••   ••       ••   •••••••••••   ••       ••
-••            ••       ••            ••    ••       ••
-••            ••       ••           ••     ••       ••
-•••••••••••   ••       ••          ••      ••       ••
-         ••   ••       ••         ••       ••       ••
-         ••   ••       ••        ••        ••       ••
-         ••   ••       ••       ••         ••       ••
-•••••••••••   ••       ••      ••          ••       ••
-•••••••••••    •••••••••     •••••••••••    •••••••••
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⡠⠔⠒⠉⠉⠉⠉⠒⠢⢄⡀⠀⠀⠀⠀⢰⠒⠒⠒⠒⡆⠀⠀⠀⠀⠀⠀⢰⠒⠒⠒⢲⠀⠀⠀⠀⡖⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⡆⠀⠀⡖⠒⠒⠒⢲⠀⠀⠀⠀⠀⠀⠀⡖⠒⠒⠒⡆⠀⠀⠀⠀
+⠀⠀⠀⠀⢠⠊⠀⠀⠀⠀⣀⣀⠀⠀⠀⠀⢨⠂⠀⠀⠀⢸⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⢸⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⡇⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⠀⠀⠀⠀
+⠀⠀⠀⠀⡇⠀⠀⠀⢰⠉⠀⠀⠉⠑⠢⠔⠁⠀⠀⠀⠀⢸⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⢸⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠉⡕⠀⠀⠀⢀⠜⠀⠀⠀⡇⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⠀⠀⠀⠀
+⠀⠀⠀⠀⡇⠀⠀⠀⠘⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠎⠀⠀⠀⢠⠊⠀⠀⠀⠀⡇⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⠀⠀⠀⠀
+⠀⠀⠀⠀⠑⡄⠀⠀⠀⠀⠀⠉⠒⠢⢄⡀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⡠⠃⠀⠀⠀⡰⠁⠀⠀⠀⠀⠀⡇⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠒⠤⣀⠀⠀⠀⠀⠀⠀⠈⠢⡀⠀⠀⠀⢸⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⡰⠁⠀⠀⢀⠜⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠑⠢⢄⠀⠀⠀⠀⢱⠀⠀⠀⠀⡇⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡸⠀⠀⠀⠀⠀⢀⠜⠀⠀⠀⢠⠊⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⢀⠇⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⡠⢄⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⢸⠀⠀⠀⠀⢇⠀⠀⠀⠸⡀⠀⠀⠀⠀⢠⠃⠀⠀⠀⡇⠀⠀⠀⠀⢠⠊⠀⠀⠀⡰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡀⠀⠀⠀⢇⠀⠀⠀⠀⠀⡜⠀⠀⠀⢸⠀⠀⠀⠀⠀
+⠀⠀⠀⢀⠎⠀⠀⠉⠒⠒⠤⠔⠊⠀⠀⠀⠀⡜⠀⠀⠀⠀⠘⡄⠀⠀⠀⠈⠒⠤⠔⠒⠁⠀⠀⠀⡸⠀⠀⠀⠀⡰⠁⠀⠀⠀⠈⠒⠒⠒⠒⠒⠒⠒⠒⡆⠀⠀⠀⢣⠀⠀⠀⠀⠑⠢⠤⠒⠊⠀⠀⠀⢀⠇⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⠢⢄⡀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠊⠀⠀⠀⠀⠀⠀⠈⠢⣀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠚⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠑⢄⡀⠀⠀⠀⠀⠀⠀⠀⣀⠔⠃⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠉⠑⠒⠒⠒⠒⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠑⠒⠒⠒⠒⠉⠁⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠈⠉⠒⠒⠒⠒⠊⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
 
-<br clear="left" />
+</td>
+</tr>
+</table>
 
-<pre>
-ABOUT SUZU
+</div>
 
-I'm SUZU, a vibecoder focused on localization, tooling, reverse engineering and the occasional
-independent project. A large part of my work is developed with the help of AI coding agents. I use
-these tools for research, prototyping, implementation, format investigation and iteration, while I
-define the goals, supervise the process, review changes, test the results and decide what ships.
+鈴は小さな町のはずれにある古い時計塔の上で、毎朝ひとりで目を覚ます。リボンを結び直して、窓の外の風の音に耳をすませるのが彼女の日課だ。誰も知らないことだが、塔の鐘は鈴が歌うときにだけ鳴る。だから町の人たちは、鐘の音が聞こえた日は「今日はいいことがある」と言って、少しだけ早足で歩くのだった。
 
-One of my main goals is to use this workflow to make content accessible in languages and regions
-that historically had little or no access to it — especially projects that might otherwise require
-years of specialized reverse engineering, custom tooling, engine research and localization work.
-My main language focus is Brazilian Portuguese (PT-BR).
+- 「おはよう、今日も早いね」と風が言った。
+- 「あなたが遅いだけでしょ」と鈴は笑って、リボンをきゅっと引っ張った。
+- 「ねえ、このREADMEを読んでくれる人はいるかな？」
+- 「いるよ。きっと、ここまでスクロールしてくれる人がね」
 
-I'm a fan of the School Days series, and that franchise is what first pushed me toward localization.
-Wanting to experience and preserve these games in my native language gradually led me into scripts,
-assets, game engines, modding and reverse engineering. The project I care about most is Days Series
-PT-BR, where I bring together translations, technical research and tooling for the franchise.
+このリポジトリは、ドットだけで描かれた小さな世界です。絵も、文字も、全部ひとつひとつの点でできています。近くで見るとただの点ですが、少し離れて見ると、リボンの女の子が手を振っているのが見えるはずです。難しいことは何もありません。ゆっくり読んで、気に入ったら星をひとつ置いていってください。鈴はきっと、窓から顔を出して喜びます。
 
-Outside of that, I sometimes build independent experiments simply because an idea or technical
-problem is interesting enough to explore.
+## Table of contents
 
-AI-assisted. Human-directed.
-</pre>
-
-[Days Series PT-BR](https://github.com/tsubaki-0x/Days-Series-PTBR)
+- [Table of contents](#table-of-contents)
