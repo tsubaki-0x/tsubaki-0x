@@ -36,14 +36,11 @@
 
 </div>
 
-鈴は小さな町のはずれにある古い時計塔の上で、毎朝ひとりで目を覚ます。リボンを結び直して、窓の外の風の音に耳をすませるのが彼女の日課だ。誰も知らないことだが、塔の鐘は鈴が歌うときにだけ鳴る。だから町の人たちは、鐘の音が聞こえた日は「今日はいいことがある」と言って、少しだけ早足で歩くのだった。
-
-- 「おはよう、今日も早いね」と風が言った。
-- 「あなたが遅いだけでしょ」と鈴は笑って、リボンをきゅっと引っ張った。
-- 「ねえ、このREADMEを読んでくれる人はいるかな？」
-- 「いるよ。きっと、ここまでスクロールしてくれる人がね」
-
-このリポジトリは、ドットだけで描かれた小さな世界です。絵も、文字も、全部ひとつひとつの点でできています。近くで見るとただの点ですが、少し離れて見ると、リボンの女の子が手を振っているのが見えるはずです。難しいことは何もありません。ゆっくり読んで、気に入ったら星をひとつ置いていってください。鈴はきっと、窓から顔を出して喜びます。
+I'm SUZU, a vibecoder focused on localization, tooling and reverse engineering. A large part of my work is developed with the assistance of AI coding agents, which I use for research, prototyping, implementation, format investigation and iteration. I define the direction of each project, supervise the process, review the changes, test the results and decide what actually ships.
+One of my main goals is to use these tools to make content accessible in languages and regions where localization would otherwise require years of specialized reverse engineering, custom tooling and engine research. My main language focus is Brazilian Portuguese (PT-BR).
+I'm a fan of the School Days series, and it was this franchise that originally sparked my interest in localization. Wanting to experience and preserve these works in my native language gradually led me into scripts, assets, modding, game engines and reverse engineering.
+The project I care about most is Days Series PT-BR, where I bring together translations, technical research and tooling for the franchise. Outside of that, I occasionally build independent projects and experiments whenever an idea or technical problem feels interesting enough to explore.
+AI-assisted. Human-directed.
 
 ## Table of contents
 
